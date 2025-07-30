@@ -28,7 +28,7 @@ Transforming complex systems through code, automation, and strategic infrastruct
 
 ### 📫 Let's Connect
 - **Email**: omer.khs@gmail.com
-- **LinkedIn**: [Profile](https://www.linkedin.com/in/omer-kirshner/)
+- **LinkedIn**: [Omer - Kirshner](https://www.linkedin.com/in/omer-kirshner/)
 
 
 <!---
