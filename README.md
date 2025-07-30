@@ -1,6 +1,6 @@
 # 🚀 Omer Kirshner | DevOps Engineer
 
-## Automation | Cloud Native | Continuous Improvement
+##  DevOps Engineer | Project Management | Infrastructure as Code | Multi-Cloud (AWS, GCP) Environments | Kubernetes • Docker • Terraform • Jenkins | Automation-Driven
 
 ### 🛠️ DevOps Philosophy
 Transforming complex systems through code, automation, and strategic infrastructure optimization. I'm passionate about building robust, scalable solutions that bridge operational excellence with cutting-edge technology.
